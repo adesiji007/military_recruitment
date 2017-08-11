@@ -1,0 +1,14 @@
+c:\users\adesiji\documents\visual studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\bin\Debug\MilitaryRecruitment.exe.config
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.AddNewDataForm.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.FormBasedUI.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.csproj.GenerateResource.Cache
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.Properties.Resources.resources
+C:\Users\adesiji\documents\visual studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.SplashForm.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.MarkEntry.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\bin\Debug\MilitaryRecruitment.exe
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\bin\Debug\MilitaryRecruitment.pdb
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.exe
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.pdb
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.Enrol.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.SucessfulApplicant.resources
+C:\Users\adesiji\Documents\Visual Studio 2013\Projects\MilitaryRecruitment\MilitaryRecruitment\obj\Debug\MilitaryRecruitment.Unsucessful.resources

@@ -1,0 +1,14 @@
+--------------APPLICANT LIST---------
+-------------------------------------
+100 Mamsol Riches
+300 David Cameroon
+500 Goodluck Jonathan
+700 Richard Mark
+900 Solomon Olutunde
+1900 Okonko Malik
+3200 Janet Laurell
+1100 Write Harmmer
+2300 John Kerry
+
+No. of items: 9
+
